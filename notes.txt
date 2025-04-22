@@ -1,0 +1,19 @@
+OOP = Object Oriented Properties 
+
+constructor => __construct();
+destructor => __destruct();
+
+inheritence 
+parents => Child 
+
+
+Access Modifier 
+
+public => The property or method can be accessed from everywhere . This is default
+protected => The property or method can be accessed with in the class and by classes derived from the class
+
+private => The property or method can be accessed within the class 
+
+
+MVC (OOP)
+
